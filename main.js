@@ -36,4 +36,3 @@ switch (command) {
 }
 
 console.log(result);
-console.log("asdf");
